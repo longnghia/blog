@@ -1,11 +1,10 @@
-
 ---
-date: '{{ .Date }}'
+date: "{{ .Date }}"
 draft: true
-title: '{{ replace .File.ContentBaseName `-` `` | title }}'
-summary: '{{ replace .File.ContentBaseName `-` `` | title }}'
+title: "{{ replace .File.ContentBaseName `-` `` | title }}"
+summary: "{{ replace .File.ContentBaseName `-` `` | title }}"
 categories:
-- Code
+  - Code
 tags:
-- ssh
+  - ssh
 ---
