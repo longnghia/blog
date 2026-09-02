@@ -24,6 +24,8 @@ tags:
 | ----------------- | --------------------- |
 | fn + 1/2/3 (hold) | Connection            |
 | fn + 1/2/3        | Switch device         |
+| fn + \            | Cycle lighting modes  |
+| fn + up/down      | Brightness            |
 | knob (hold)       | Change mode           |
 | fn + LShift       | Charging effect       |
 | fn + b (hold)     | Battery level         |
@@ -36,15 +38,15 @@ tags:
 - [User Manual](https://book.yunzhan365.com/tvuvw/axew/mobile/index.html)
 - [GIF Creation Guide](https://mistydecor.vn/huong-dan-tao-anh-gif-cho-aula-f98-pro-f108-pro-s87-pro/)
 
-| Shortcut  | Description       |
-| --------- | ----------------- |
-| fn + \    | Light mode        |
-| fn + Tab  | Light mode color  |
-| fn + /    | Light bar         |
-| fn + z    | Light bar ambient |
-| fn + ↑/↓  | Brightness        |
-| fn + ←/→  | Speed             |
-| fn + knob | Change mode       |
+| Shortcut    | Description      |
+| ----------- | ---------------- |
+| fn + \      | Light mode       |
+| fn + Tab    | Light mode color |
+| fn + z      | Bar Light        |
+| fn + rshift | Side Lights      |
+| fn + ↑/↓    | Brightness       |
+| fn + ←/→    | Speed            |
+| fn + knob   | Change mode      |
 
 ## Aula SC620
 

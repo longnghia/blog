@@ -118,6 +118,12 @@ Learn more: [GNU Bash Manual - Here Documents](https://www.gnu.org/software/bash
 { echo hi; echo there; } > test.txt
 ```
 
+### Truncates, create empty file
+
+```sh
+: > readme.txt
+```
+
 ---
 
 That's it for now. Happy scripting!
